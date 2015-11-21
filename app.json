@@ -1,6 +1,6 @@
 {
-  "name": "PHP Getting Started",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
+  "name": "PHP Hello World for Experimental Platform",
+  "description": "A barebones PHP app",
+  "repository": "https://github.com/experimental-platform/php-hello-world",
   "addons": []
 }
