@@ -1,5 +1,7 @@
 # PHP Webcam Example for Experimental Platform
 
+The [index.php](https://github.com/experimental-platform/example-php-webcam/blob/master/web/index.php) contains all you need to know. A linux package called [fswebcam](http://manpages.ubuntu.com/manpages/lucid/man1/fswebcam.1.html) is used for capturing webcam images.
+
 ## Usage
 
     git clone https://github.com/experimental-platform/example-php-webcam.git
