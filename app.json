@@ -1,6 +1,6 @@
 {
-  "name": "PHP Hello World for Experimental Platform",
-  "description": "A barebones PHP app",
-  "repository": "https://github.com/experimental-platform/php-hello-world",
+  "name": "PHP Webcam Example for Experimental Platform",
+  "description": "A barebones PHP webcam app",
+  "repository": "https://github.com/experimental-platform/example-php-webcam",
   "addons": []
 }
