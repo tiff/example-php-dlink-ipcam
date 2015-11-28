@@ -1,6 +1,6 @@
 <?php
 $image_path = "webcam.jpg";
-shell_exec("fswebcam ./web/$image_path");
+shell_exec("fswebcam ./$image_path");
 ?>
 <html>
   <head>
