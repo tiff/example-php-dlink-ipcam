@@ -1,15 +1,11 @@
-<?php
-$image_path = "webcam.jpg";
-shell_exec("fswebcam ./$image_path");
-?>
 <html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="refresh" content="3">
-    <title>Webcam</title>
+    <title>D-Link IP-Camera</title>
   </head>
   <body>
-    <img src="<? echo $image_path ?>">
+    <img src="webcam.php">
   </body>
 </html>
 
